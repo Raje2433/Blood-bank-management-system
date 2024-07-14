@@ -1,0 +1,117 @@
+Raje    PÅ                                       Raje24                                                Raji1234                                     raje@gmail.com                                       user                        
+Nikki   PÅ                                        Nikki28                                       NIKKI12    			nikki@gmail.com 		               admin           
+Sibiya  PÅ     		 sibi19 		 C    	sibi* 		sibi@gmail.com   		user  àÅ             
+Devika  PÅ     		     devi15 			riya15			devi@gmail.com 					user °Å             
+Kavi    Å                                        Kavi12                                           kavitha                                       kavi@gmail.com                   ÐãÅý   ðâÅý  C   user         Å            
+ Jeeva   Å                                     jeeva07                                                jeevaa                          C                 jeeva@gmail.com                                      user        ÐÅ             Name: Param
+Username: param12
+Password: raje
+Email: param@gmail.com
+User Type: user
+Age: 21
+
+Name: Raje
+Username: Raje24
+Password: param
+Email: raje@gmail.com
+User Type: admin
+Age: 32
+
+Name: Nikki
+Username: nikki24
+Password: Raje
+Email: nikki@gmail.com
+User Type: user
+Age: 12
+
+Name: dfte
+Username: rajeee
+Password: g
+Email: hgf
+User Type: admin
+Age: 45
+
+Name: Raje
+Username: r
+Password: r
+Email: d
+User Type: admin
+Age: 4
+
+Name: r
+Username: r
+Password: r
+Email: r
+User Type: admin
+Age: 3
+
+Name: Raje
+Username: e
+Password: e
+Email: e
+User Type: admin
+Age: 3
+
+Name: r
+Username: r
+Password: 4
+Email: r
+User Type: admin
+Age: 4
+
+Name: Raje
+Username: Raje24
+Password: 2
+Email: hf
+User Type: admin
+Age: 23
+
+Name: e
+Username: e
+Password: e
+Email: e
+User Type: admin
+Age: 3
+
+Name: r
+Username: r
+Password: r
+Email: r
+User Type: r
+Age: 4
+
+Name: e
+Username: e
+Password: e
+Email: e
+User Type: admin
+Age: 3
+
+Name: R
+Username: r
+Password: r
+Email: r
+User Type: admin
+Age: 3
+
+Name: r
+Username: r
+Password: r
+Email: r
+User Type: admin
+Age: 4
+
+Name: R
+Username: r
+Password: r
+Email: r
+User Type: admin
+Age: 2
+
+Name: Raje
+Username: Raje24
+Password: nikki
+Email: raje@gmail.com
+User Type: admin
+Age: 23
+
