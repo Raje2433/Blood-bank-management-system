@@ -1,0 +1,6 @@
+The objective of this project is to create a Blood Bank Management System with a user-friendly interface that 
+allows for easy management of blood donation, recipient and inventory information. The system provides secure login
+for both users and administrators, with the ability for users to request blood and administrators to manage user profiles 
+and blood inventory. The system also allows administrators to generate reports for blood donations, recipients, 
+and inventory. The overall goal is to create a streamlined and efficient system for managing blood bank operations, 
+ensuring that blood is available when needed and reducing the risk of shortages.
